@@ -1,2 +1,4 @@
-# Projeto-_Fragrans
-Projeto feito em grupo com fins didáticos - Instituto Proa. 
+# _Fragrans
+ Repositório do projeto _Fragrans,um projeto com fins didáticos.
+
+ Utilizando HTML e CSS, temos como objetivo desenvolver um ecommerce de cosmeticos femininos.
